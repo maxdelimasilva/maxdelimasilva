@@ -36,24 +36,23 @@
 </p>
 </div>
 <br>
-<br>
 <div>
 
    ---
    
-### 🔗Links úteis
+### 🔗 Links úteis
 
 <p align="left bottom">
-    <a href="[https://www.linkedin.com/in/maxwel-silva-0a058235a/]">
+    <a href="(https://www.linkedin.com/in/maxwel-silva-0a058235a/)">
         <img 
             alt="linkedin" 
-            title="linkedin" 
+            title="Linkedin" 
             src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"
         />
-       <a href=[mailto:maxwelldelimasilvap@gmail.com]>
+       <a href='(mailto:maxwelldelimasilvap@gmail.com)'>
         <img 
             alt="e-mail" 
-            title="gmail" 
+            title="Gmail" 
             src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"
         />
     </a>
