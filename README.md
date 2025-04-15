@@ -13,12 +13,6 @@ Olá! Sou estudante de Desenvolvimento de Sistemas pelo programa NovoTec e atual
 </div>
 
 ##
-
-###
-<picture>
-<img  height=250em src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxdelimasilva&hide_progress=true" />
-</picture>
-
 ### 📊 Estatísticas
 
 <p>
