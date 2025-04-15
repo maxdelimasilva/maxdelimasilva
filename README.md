@@ -1,37 +1,44 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1A6937&width=435&lines=Ol%C3%A1%2C+eu+sou+Maxwel!" alt="Typing SVG" /></a>
 ---
+
 **`Estudante de Desenvolvimento de Sistemas`**
 
-   Sou estudante de Desenvolvimento de Sistemas pelo programa NovoTec e atualmente curso o 3º ano do Ensino Médio. Tenho 17 anos e estou me dedicando ao aprendizado contínuo com o objetivo de me tornar um desenvolvedor full-stack. Busco sempre me aperfeiçoar, participando de projetos, cursos e desafios que ampliem meus conhecimentos e habilidades na área da tecnologia.
+   <p>Sou estudante de Desenvolvimento de Sistemas pelo programa NovoTec e atualmente curso o 3º ano do Ensino Médio. Tenho 17 anos e estou me dedicando ao aprendizado contínuo com o objetivo de me tornar um desenvolvedor full-stack. Busco sempre me aperfeiçoar, participando de projetos, cursos e desafios que ampliem meus conhecimentos e habilidades na área da tecnologia.</p>
 
   ---
 
 ### 🤖 Linguagens e Tecnologias
-<div style="display: inline_block"><br>
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-</div><br>
+<div style="text-align: center;">
+  <img alt="HTML" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img alt="CSS" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img alt="Python" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img alt="Git" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
+</div>
 
 ### 📊 Estatísticas
 
-<div type='display='>
+<div type='display= inline_block'>
 <p>
   <img 
     align="left" 
-    alt="Github Estatus" 
-    height="200" 
-    style="padding-right: 10px;" 
+    alt="Github Status" 
+    height="180" 
+    style="padding-right: 5px;" 
     src="https://github-readme-stats.vercel.app/api?username=maxdelimasilva&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
 <img 
-      align="right bottom" 
+      align="left bottom" 
       alt="Github Estatus" 
-      height='152px'
+      height='120px'
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxdelimasilva&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
+   <img 
+      align="right" 
+      height="250" 
+      alt="coding-time" 
+      src="code.gif"
+      />
 </p>
 </div>
