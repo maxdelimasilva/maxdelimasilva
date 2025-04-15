@@ -1,16 +1,10 @@
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF00F6&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Olá!+Eu+sou+Maxwel+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
-  </a>
-</div>
-
-<img align="center" alt="" src="./src/header-gif.gif">
-
-
-**`Estudante de Desenvolvimento de Sistemas`**
-  Sou estudante de Desenvolvimento de Sistemas pelo programa NovoTec e atualmente curso o 3º ano do Ensino Médio. Tenho 17 anos e estou me dedicando ao aprendizado contínuo com o objetivo de me tornar um desenvolvedor full-stack. Busco sempre me aperfeiçoar, participando de projetos, cursos e desafios que ampliem meus conhecimentos e habilidades na área da tecnologia.
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1A6937&width=435&lines=Ol%C3%A1%2C+eu+sou+Maxwel!" alt="Typing SVG" /></a>
 ---
+**`Estudante de Desenvolvimento de Sistemas`**
+
+   Sou estudante de Desenvolvimento de Sistemas pelo programa NovoTec e atualmente curso o 3º ano do Ensino Médio. Tenho 17 anos e estou me dedicando ao aprendizado contínuo com o objetivo de me tornar um desenvolvedor full-stack. Busco sempre me aperfeiçoar, participando de projetos, cursos e desafios que ampliem meus conhecimentos e habilidades na área da tecnologia.
+
+  ---
 
 ### 🤖 Linguagens e Tecnologias
 <div style="display: inline_block"><br>
@@ -18,9 +12,8 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-</div>
+</div><br>
 
-##
 ### 📊 Estatísticas
 
 <div type='display='>
@@ -34,11 +27,31 @@
   />
 
 <img 
-      align="left" 
+      align="right top" 
       alt="Github Estatus" 
-      height="200" 
+      height='152px'
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxdelimasilva&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
 </p>
+</div>
+<br>
+<br>
+<div>
+---
+### 🔗Links úteis
+<p align="left bottom">
+    <a href="[https://www.linkedin.com/in/maxwel-silva-0a058235a/]">
+        <img 
+            alt="linkedin" 
+            title="linkedin" 
+            src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"
+        />
+       <a href=[mailto:maxwelldelimasilvap@gmail.com]>
+        <img 
+            alt="e-mail" 
+            title="gmail" 
+            src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"
+        />
+    </a>
 </div>
