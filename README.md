@@ -1,8 +1,9 @@
 ## Olá! Eu sou o Maxwel de Lima👋
 
-**Estudante de Desenvolvimento de Sistemas**
-Olá! Sou estudante de Desenvolvimento de Sistemas pelo programa NovoTec e atualmente curso o 3º ano do Ensino Médio. Tenho 17 anos e estou me dedicando ao aprendizado contínuo com o objetivo de me tornar um desenvolvedor full-stack. Busco sempre me aperfeiçoar, participando de projetos, cursos e desafios que ampliem meus conhecimentos e habilidades na área da tecnologia.
+**`Estudante de Desenvolvimento de Sistemas`**
+  Sou estudante de Desenvolvimento de Sistemas pelo programa NovoTec e atualmente curso o 3º ano do Ensino Médio. Tenho 17 anos e estou me dedicando ao aprendizado contínuo com o objetivo de me tornar um desenvolvedor full-stack. Busco sempre me aperfeiçoar, participando de projetos, cursos e desafios que ampliem meus conhecimentos e habilidades na área da tecnologia.
 
+---
 
 ### 🤖 Linguagens e Tecnologias
 <div style="display: inline_block"><br>
@@ -15,20 +16,22 @@ Olá! Sou estudante de Desenvolvimento de Sistemas pelo programa NovoTec e atual
 ##
 ### 📊 Estatísticas
 
+<div type='display='>
 <p>
   <img 
     align="left" 
-    alt="GitHub Stats" 
+    alt="Github Estatus" 
     height="200" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=maxdelimasilva&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
 <img 
-      align="left" 
-      alt="GitHub Stats" 
+      align="right" 
+      alt="Github Estatus" 
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxdelimasilva&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
 </p>
+</div>
