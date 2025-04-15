@@ -8,12 +8,14 @@
   ---
 
 ### 🤖 Linguagens e Tecnologias
-<div style="text-align: center;">
+<div style="text-align: center; padding;12px;">
   <img alt="HTML" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img alt="CSS" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img alt="Python" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img alt="Git" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
 </div>
+
+---
 
 ### 📊 Estatísticas
 
@@ -33,12 +35,4 @@
       height='120px'
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxdelimasilva&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-
-   <img 
-      align="right" 
-      height="250" 
-      alt="coding-time" 
-      src="code.gif"
-      />
-</p>
 </div>
