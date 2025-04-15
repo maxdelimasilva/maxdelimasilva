@@ -13,3 +13,6 @@
   />
   <img src="https://github-readme-stats.vercel.app/api?username=maxdelimasilva&show_icons=true" />
 </picture>
+<picture>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true" />
+</picture>
