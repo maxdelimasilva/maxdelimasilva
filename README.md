@@ -5,12 +5,12 @@
 <div style='display: inline_block'>
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=maxdelimasilva&show_icons=true&theme=tokyonight"
-    media="(prefers-color-scheme: tokyonight)"
+    srcset="https://github-readme-stats.vercel.app/api?username=maxdelimasilva&show_icons=true&theme=tokyo_night"
+    media="(prefers-color-scheme: tokyo_night)"
   />
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=maxdelimasilva8&show_icons=true"
-    media="(prefers-color-scheme: tokyonight), (prefers-color-scheme: tokyonight)"
+    media="(prefers-color-scheme: tokyo_night), (prefers-color-scheme: tokyo_night)"
   />
   <img  height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=maxdelimasilva&show_icons=true" />
 </picture>
