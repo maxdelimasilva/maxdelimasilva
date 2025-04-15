@@ -35,25 +35,3 @@
 
 </p>
 </div>
-<br>
-<div>
-
-   ---
-   
-### 🔗 Links úteis
-
-<p align="left bottom">
-    <a href="(https://www.linkedin.com/in/maxwel-silva-0a058235a/)">
-        <img 
-            alt="linkedin" 
-            title="Linkedin" 
-            src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"
-        />
-       <a href='(mailto:maxwelldelimasilvap@gmail.com)'>
-        <img 
-            alt="e-mail" 
-            title="Gmail" 
-            src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"
-        />
-    </a>
-</div>
