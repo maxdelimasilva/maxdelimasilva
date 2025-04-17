@@ -17,14 +17,14 @@
 
 ---
 
-### 📊 Estatísticas
+### 📊 Estatísticas 
 
 <div type='display= inline_block'>
 <p>
   <img 
     align="left" 
     alt="Github Status" 
-    height="180" 
+    height="170em" 
     style="padding-right: 5px;" 
     src="https://github-readme-stats.vercel.app/api?username=maxdelimasilva&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
@@ -32,8 +32,16 @@
 <img 
       align="left bottom" 
       alt="Github Estatus" 
-      height='120px'
-      width='450px'
+      height='120em'
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxdelimasilva&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
+</div>
+
+---
+
+<div> 
+ <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:maxwelldelimasilvap@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="[https://www.linkedin.com/in/maxwel-silva-0a058235a/]" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
 </div>
