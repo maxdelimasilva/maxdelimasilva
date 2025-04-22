@@ -5,6 +5,12 @@
 
    <p>Sou estudante de Desenvolvimento de Sistemas pelo programa NovoTec e atualmente curso o 3º ano do Ensino Médio. Tenho 17 anos e estou me dedicando ao aprendizado contínuo com o objetivo de me tornar um desenvolvedor full-stack. Busco sempre me aperfeiçoar, participando de projetos, cursos e desafios que ampliem meus conhecimentos e habilidades na área da tecnologia.</p>
 
+<div> 
+  <a href = "mailto:maxwelldelimasilvap@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/maxwel-silva-0a058235a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
+  
   ---
 
 ### 🤖 Linguagens e Tecnologias
@@ -24,7 +30,7 @@
   <img 
     align="left" 
     alt="Github Status" 
-    height="170em" 
+    height="165em" 
     style="padding-right: 5px;" 
     src="https://github-readme-stats.vercel.app/api?username=maxdelimasilva&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
@@ -37,10 +43,3 @@
   />
 </div>
 
----
-
-<div> 
-  <a href = "mailto:maxwelldelimasilvap@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="[(https://www.linkedin.com/in/maxwel-silva-0a058235a/)]" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-</div>
