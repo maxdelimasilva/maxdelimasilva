@@ -3,7 +3,7 @@
 
 **`Estudante de Desenvolvimento de Sistemas`**
 
-   <p>Sou estudante de Desenvolvimento de Sistemas pelo programa NovoTec e atualmente curso o 3º ano do Ensino Médio. Tenho 17 anos e estou me dedicando ao aprendizado contínuo com o objetivo de me tornar um desenvolvedor full-stack. Busco sempre me aperfeiçoar, participando de projetos, cursos e desafios que ampliem meus conhecimentos e habilidades na área da tecnologia.</p>
+<p>Tenho 18 anos e sou estudante do Técnico em Desenvolvimento de Sistemas (conclusão prevista para dez/2025 – E.E. João Ramalho). Busco minha primeira oportunidade como Jovem Aprendiz nas áreas de Administração ou Tecnologia da Informação, iniciando minha trajetória profissional e desenvolvendo habilidades técnicas.</p>
 
 <div> 
   <a href = "mailto:maxwelldelimasilvap@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
